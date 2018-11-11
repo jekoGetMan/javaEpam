@@ -17,7 +17,17 @@ public class Car {
         this.year = year;
         this.speed = speed;
     }
-    public int getMaxSpeed() { return maxSpeed; }
 
-    public void setMaxSpeed(int maxSpeed) { this.maxSpeed = maxSpeed; }
+    public String getModel(){
+        return model;
+    }
+
+
+    public int getMaxSpeed(){
+        return maxSpeed;
+    }
+
+    public void setMaxSpeed(int maxSpeed){
+        this.maxSpeed = maxSpeed;
+    }
 }
