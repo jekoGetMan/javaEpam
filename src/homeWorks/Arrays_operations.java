@@ -8,6 +8,7 @@ public class Arrays_operations {
         int[] arr1 = new int[]{5, 6, 12, 8, 21};
         int[] arr2 = new int[]{8, 9, 10, 7, 21};
 
+
         // Fill massive randomly
 //            int index1 = 0;
 //            while (index1 < arr.length)
@@ -213,7 +214,7 @@ public class Arrays_operations {
             }
             index18++;
         }
-        System.out.println("Array with chanched max & min is:\t" + arr5);
+        System.out.println("Array with changed max & min is:\t" + arr5);
 
         // Delete
         int[] arr6 = new int[arr.length];
