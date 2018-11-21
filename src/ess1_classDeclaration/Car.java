@@ -1,5 +1,7 @@
 package ess1_classDeclaration;
 
+import tst2.tst_opp;
+
 public class Car {
     private String model;
     private int maxSpeed;
@@ -30,4 +32,10 @@ public class Car {
     public void setMaxSpeed(int maxSpeed){
         this.maxSpeed = maxSpeed;
     }
+
+    public static void main(String[] args){
+        tst_opp someLink = new tst_opp();
+        someLink.lol();
+    }
+
 }

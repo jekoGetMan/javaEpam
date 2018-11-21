@@ -37,4 +37,8 @@ public Shape(){ // Конструктор предназначен, чтобы �
     System.out.println("Height" + height);
     System.out.println("length" + length);
 }
+
+    public static void tst1(){
+       System.out.println("Hello_world!!!");
+    }
 }

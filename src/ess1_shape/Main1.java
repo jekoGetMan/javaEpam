@@ -17,5 +17,10 @@ public class Main1 {
         shape.getHeight();
 
         shape.viewShape();
+
+    }
+
+    public static void trol(){
+        System.out.println("lol");
     }
 }
