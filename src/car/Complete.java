@@ -6,8 +6,8 @@ package car;
 даний клас(getters, setters, toString). Всі поля повинні бути параметрами в конструкторі.
  */
 public class Complete {
-    wheel whl = new wheel(2, 4, 8);
     rudder rud = new rudder(2, 4, 8);
+    wheel whl = new wheel(2, 4, 8);
     carCase cas = new carCase(300, 400, 34);
 
     public void action(){
