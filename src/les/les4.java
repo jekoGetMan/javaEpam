@@ -1,6 +1,6 @@
 package les;
 
-public class third {
+public class les4 {
     //tosring
     //хэш код
     //@Override - анотация
