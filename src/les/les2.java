@@ -2,7 +2,7 @@ package les;
 
 import java.util.Scanner;
 
-public class Second {
+public class les2 {
     public static void main(String[] args) {
                                                 /*THEORY*/
         // Переприсвоить переменные.

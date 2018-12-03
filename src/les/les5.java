@@ -44,6 +44,4 @@ public class les5{
     // Default и static (оба Public)
 
 
-
-
 }
