@@ -65,14 +65,8 @@ public class les6 {
         // урок про объекты (последний)
         //
 
-        System.out.println("hello");
-        public boolean equals(Object o){
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-            Car car = (Car) o;
 
 
         }
 
     }
-}
